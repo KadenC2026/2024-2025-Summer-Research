@@ -25,4 +25,5 @@ The Jupyter Notebook App is a server-client application that allows editing and 
 For instance, we can write math symbols using latex enclosed by double dollar sign:
 $$\phi(x) = \frac{1}{\sqrt{2\pi}} e^{-1/x^2}$$
 
+jupyter nbconvert --execute --to markdown README.ipynb
 
