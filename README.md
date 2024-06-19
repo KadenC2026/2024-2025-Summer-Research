@@ -15,8 +15,6 @@ GitHub is exactly how people build software. GitHub. is a web-based hosting serv
 Let's start with the following steps:
 
 - Visit [GitHub](https://github.com/) and register for your own account.
-
 - create a repo with course-name. please tick public/initialize readme/mit license.
-
 - Modify README.md.
 
