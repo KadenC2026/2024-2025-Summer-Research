@@ -18,3 +18,11 @@ Let's start with the following steps:
 - create a repo with course-name. please tick public/initialize readme/mit license.
 - Modify README.md.
 
+## Jupyter notebook with Colab
+
+The Jupyter Notebook App is a server-client application that allows editing and running notebook documents (ex. python, latex) via a web browser. The Jupyter Notebook App can be executed on a local desktop requiring no internet access or can be installed on a remote server and accessed through the internet.
+
+For instance, we can write math symbols using latex enclosed by double dollar sign:
+$$\phi(x) = \frac{1}{\sqrt{2\pi}} e^{-1/x^2}$$
+
+
