@@ -10,4 +10,4 @@ This Repository contains my Research Notes, findings, and implementations during
 5: [Quantitative Risk Management Project: Copula Estimation for VaR with S&P 500 and Bond ETF](https://github.com/KadenC2026/2024-2025-Summer-Research/blob/main/Sp500analysis.ipynb)<br>
 6: [Neural Network Approach to Calculating VaR](https://github.com/KadenC2026/2024-2025-Summer-Research/blob/main/NeuralNetworkVaR.ipynb) <br>
 7: [Intro to Stochastic Calculus: Ordinary+Stochastic Differential Equations, Brownian Motion and Ito Lemma](https://github.com/KadenC2026/2024-2025-Summer-Research/blob/main/StochasticCalc.ipynb) (In Progress) <br>
-8: End of Research Conclusion: Paper on my findings in Quantitative Finance (In Progress) 
+8: End of Research Conclusion: Paper on my findings in Quantitative Finance (In Progress)
