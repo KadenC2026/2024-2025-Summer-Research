@@ -1,7 +1,7 @@
 # 2024 and 2025 Research in Financial Mathematics - Kaden Chen
 
 
-This Repository contains my Research Notes, findings, and implementations from my summer internships in 2024 and 2025 at Worcester Polytechnic Institute. The entries below are in Chronological Order.
+This Repository compiles the research Notes, findings, and implementation code from my summer internships in 2024 and 2025 at Worcester Polytechnic Institute. The entries below are in Chronological Order.
 
 1: [Arbitrage and Calculating Option Pricing](https://github.com/KadenC2026/2024-2025-Summer-Research/blob/main/Arbitrage%26OptionPricing.ipynb) <br>
 2: [Collateralized Debt Obligations and the Credit Crisis of 2007](https://github.com/KadenC2026/2024-2025-Summer-Research/blob/main/CDO%262007Crisis.ipynb) <br>
